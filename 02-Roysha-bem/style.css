@@ -246,3 +246,10 @@ img {
     margin: 0 auto 40px;
     text-align: center;
 }
+
+.transfer__list {
+    padding: 40px 0 80px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 54px;
+}
